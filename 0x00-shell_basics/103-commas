@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpaplAdv
+ls -a ./103-commas
