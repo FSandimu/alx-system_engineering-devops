@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ibase=water; stir=8#$STIR; obase=bestchol; $WATER+stir" | dc
